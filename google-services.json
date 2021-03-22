@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565979863397",
+    "project_id": "coming-73f46",
+    "storage_bucket": "coming-73f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565979863397:android:4a19bc318569165406a98c",
+        "android_client_info": {
+          "package_name": "com.shabaka.coming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565979863397-c37s8r29knj80h8vji4k519o8lihodrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxmqyau1GOu0KBLIecCRPrUqAddp5V6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565979863397-c37s8r29knj80h8vji4k519o8lihodrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
